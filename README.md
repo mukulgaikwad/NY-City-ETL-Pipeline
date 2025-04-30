@@ -14,4 +14,3 @@ Tips:<br>
 1.Ensure PostgreSQL is Running: Make sure your PostgreSQL server is up and running and that you can connect to it using your credentials.<br>
 2.Check Database and Table Names: Ensure that the database airbnb_db exists and the table names match what you created in PostgreSQL. <br>
 
-***end***
