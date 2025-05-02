@@ -5,7 +5,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-# Load dataset
+# Load dataset from postgres 
 df = pd.read_csv('path_to_your_file/AB_NYC_2019.csv')
 
 # Database connection
