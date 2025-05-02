@@ -1,7 +1,7 @@
 # NY-City-ETL-Pipeline
 The goal of this project is to design and implement a scalable ETL pipeline and work with databases.
 
-1.Data Ingestion and Storage - Set up a PostgreSQL database on local server and create a airbnb_db.<Br>
+1.Data Ingestion and Storage(ETL) - Set up a PostgreSQL database on local server and create a airbnb_db.<Br>
 2.Python script to load the dataset into the PostgreSQL table<br>
 3.Extract the data from the PostgreSQL database using SQLAlchemy using python code.<br>
 4.Data Transformation - Perform the necessary transformations<br>
